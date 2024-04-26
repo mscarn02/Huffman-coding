@@ -1,0 +1,7 @@
+Processing cryptographic algorithms can be really taxing for a simple processor and often
+there is a tradeoff between speed and security. To address these concerns, we have
+dedicated processors - TI’s sitara embedded processors: AM37x, AM335x, AM43x etc.
+The Advanced Encryption Standard (AES) is a widely adopted symmetric encryption
+algorithm used to secure sensitive data in various applications. Implementing AES on
+Field-Programmable Gate Arrays (FPGAs) offers flexibility, reconfigurability, and parallel
+processing capabilities, making it an attractive choice for cryptographic applications.
